@@ -1,0 +1,101 @@
+.content{
+    min-height: 100vh;
+}
+
+.navbar-inverse{
+    background-color: rgb(61, 76, 177);
+    border: none;
+}
+
+.progress-bar{
+    background-color: rgb(61, 76, 177);
+}
+
+.btn-primary{
+    background-color: rgb(72, 88, 189);
+}
+.navbar-inverse .navbar-nav > li > a , .navbar-inverse .navbar-brand{
+    color: #f8f8f8;
+}
+
+.sidenav{
+    border-right: 1px solid gray;
+    left: 0;
+}
+
+.sidenav a{
+    color: rgb(42, 82, 192);
+}
+
+.navbar-inverse .navbar-toggle, .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{
+    border-color: rgba(255, 255, 255, 0.8);
+}
+
+.navbar-inverse .navbar-toggle , .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+    background-color: rgb(76, 92, 161);
+}
+
+.donation{
+    text-align: center;
+}
+.donation-meter{
+    height: 12px;
+}
+
+.btn-group-lg > .btn, .btn-lg{
+    font-size:14px;
+}
+
+footer{
+    margin-top: 24px;
+border-top: 1px solid rgb(228, 228, 228);
+    
+}
+footer .li{
+    list-style-type: none;
+}
+.footer ul li a {
+	padding: 0 0 5px 0;
+	display: block;
+}
+footer .container{
+    padding-top:50px;
+}
+
+.footer-bottom{
+    color:white;
+    text-align: center;
+    background-color: rgb(108, 112, 139);
+    
+}
+
+.main-panel{
+ /* height: 400px; */
+ min-height:300px;
+ border-top: 1px solid rgb(228, 228, 228);
+}
+
+
+
+.btn-tag{
+    margin-bottom: 5px;
+}
+
+.top-padding{
+    padding-top: 72px;
+}
+
+.dropdown-menu {
+    top: 0;
+    left: 100%;
+  }
+
+  .link-item{
+      border-top: 1px solid rgb(226, 226, 226);
+      border-bottom: 1px solid rgb(226, 226, 226);
+  }
+
+  .link-item:hover{
+      
+      background-color: rgb(251, 253, 232);
+  }
